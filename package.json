@@ -1,7 +1,14 @@
 {
   "name": "entropy-editor",
   "version": "0.1.0",
+  "description": "Editor for the Entropy Game Engine",
+  "author": "Robert Herber",
+  "license": "MIT",
   "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rob893/Entropy-Editor.git"
+  },
   "scripts": {
     "start": "npm run electron-serve",
     "serve": "vue-cli-service serve",
