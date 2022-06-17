@@ -41,7 +41,7 @@
     "@vue/eslint-config-prettier": "^6.0.0",
     "@vue/eslint-config-typescript": "^7.0.0",
     "circular-dependency-plugin": "^5.2.2",
-    "electron": "^11.1.0",
+    "electron": "^15.5.5",
     "eslint": "^7.16.0",
     "eslint-plugin-prettier": "^3.3.0",
     "eslint-plugin-vue": "^7.3.0",
